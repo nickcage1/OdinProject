@@ -1,4 +1,4 @@
-# OdinProject-HTML
-Projects completed to learn HTML through The Odin Project
+# OdinProject
+Projects completed to learn HTML,CSS,Javascript through The Odin Project
 
 Nothing super complex
